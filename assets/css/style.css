@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    font-weight: 500;
+    color: white;
+}
+
+.logo-Header {
+    width: 80px;
+}
+
+.items-Header {
+    width: 30px;
+}
+
+.bar-Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bar-Header--center {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+}
+
+/* Temp CSS for IMG*/
+#img {
+    width: 300px;
+}
+
+main {
+    text-align: center;
+}
